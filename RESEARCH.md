@@ -17,7 +17,7 @@
 * [LeCun, Y. (2019). AI and the Future of Humanity. The Guardian.](https://www.theguardian.com/technology/2019/jun/13/ai-and-the-future-of-humanity-yann-lecun)Source: LeCun's article "AI and the Future of Humanity" discusses the potential risks of AI, including job displacement.
 
 
-# :money_with_wings: :money_bag :money_with_wings:
+# :money_with_wings: :money_bag: :money_with_wings:
 * Mishra, A. K., & Singh, S. K. (2022). The Economic Impact of Chatbots: A Review of the Literature. [Journal of Business Research, 134, 341-353](https://www.sciencedirect.com/science/article/pii/S0092890322000154)
 * de Oliveira, J. M. C. S., & de Oliveira, A. C. S. (2022). Chatbots and the Future of Work: A Study of the Impact on Employment. [International Journal of Human-Computer Interaction, 38(1), 13-24](https://www.tandfonline.com/doi/abs/10.1080/10447318.2022.2038354)
 * Brown, A. R., & Ching, D. P. K. T. (2022). The Economic Effects of Large Language Models: A Survey. [Journal of Economic Surveys, 36(2), 255-274](https://onlinelibrary.wiley.com/doi/abs/10.1111/joes.12431)
